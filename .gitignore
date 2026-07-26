@@ -32,3 +32,6 @@ Thumbs.db
 
 # Vite cache
 .vite/
+
+# Vercel local project metadata
+.vercel/
